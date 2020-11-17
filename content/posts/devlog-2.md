@@ -1,7 +1,7 @@
 ---
 title: "Devlog 2"
 date: 2020-10-24T13:40:57-05:00
-draft: true
+draft: false
 comments: false
 images:
 ---

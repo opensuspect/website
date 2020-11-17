@@ -1,7 +1,7 @@
 ---
 title: "Devlog 1"
 date: 2020-10-22T13:38:15-05:00
-draft: true
+draft: false
 comments: false
 images:
 ---

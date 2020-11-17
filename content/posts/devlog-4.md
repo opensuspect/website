@@ -1,7 +1,7 @@
 ---
 title: "Devlog 4"
 date: 2020-11-10T13:41:03-05:00
-draft: true
+draft: false
 comments: false
 images:
 ---
