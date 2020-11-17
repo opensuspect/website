@@ -6,14 +6,73 @@
     <description>Recent content on OpenSuspect</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://opensuspect.com/index.xml" rel="self" type="application/rss+xml" />
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
+    <lastBuildDate>Tue, 10 Nov 2020 13:41:03 -0500</lastBuildDate><atom:link href="https://opensuspect.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>About OpenSuspect</title>
+      <title>Devlog 4</title>
+      <link>https://opensuspect.com/posts/devlog-4/</link>
+      <pubDate>Tue, 10 Nov 2020 13:41:03 -0500</pubDate>
+      
+      <guid>https://opensuspect.com/posts/devlog-4/</guid>
+      <description>Hey, Iâ€™m TheSecondReal0, and Iâ€™ll be writing the devlog this week.
+Art
+
+Despite earlier setbacks, the art team is back on track! The character design has been decided upon (see above), along with the lobby design! As always, the lobby design was decided upon with a vote, see submissions below.
+Moxvallix&amp;rsquo;s submission:
+Luke_Connor&amp;rsquo;s submission:
+NiceMicro&amp;rsquo;s submission:
+Luke_Connorâ€™s design won, although the final lobby will probably be more of a mix between his and Moxvallixâ€™s.</description>
+    </item>
+    
+    <item>
+      <title>Devlog 2</title>
+      <link>https://opensuspect.com/posts/devlog-2/</link>
+      <pubDate>Sat, 24 Oct 2020 13:40:57 -0500</pubDate>
+      
+      <guid>https://opensuspect.com/posts/devlog-2/</guid>
+      <description>Greetings all, and welcome to the second Devlog, written by none other than yours truly, Moxvallix.
+Recently, I posted Devlog #1, discussing the beginnings of our project, what our project aims to be, and the different teams that were formed to tackle various elements of the game&amp;rsquo;s design. Recently, the team leaders met to discuss important topics about the design of the game, which is why I have decided to make a second Devlog, for those who want to stay updated.</description>
+    </item>
+    
+    <item>
+      <title>Devlog 1</title>
+      <link>https://opensuspect.com/posts/devlog-1/</link>
+      <pubDate>Thu, 22 Oct 2020 13:38:15 -0500</pubDate>
+      
+      <guid>https://opensuspect.com/posts/devlog-1/</guid>
+      <description>Welcome to the first Devlog of OpenSuspect! Written by none other than me, Moxvallix! (Soon to be written by the Branding Team!)
+It has been two weeks since the project first started, when NiceMicro first posted to r/linuxmasterrace, and I set up a Matrix community for the few that were interested. Since then, following a few more Reddit posts, the idea for making an open source, Among Us inspired game, gained some traction, and soon development had started (a lot quicker than Micro and I had expected).</description>
+    </item>
+    
+    <item>
+      <title>Typography</title>
+      <link>https://opensuspect.com/posts/typography/</link>
+      <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
+      
+      <guid>https://opensuspect.com/posts/typography/</guid>
+      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+ An apple is a sweet, edible fruit produced by an apple tree (Malus pumila).</description>
+    </item>
+    
+    <item>
+      <title>About Hugo</title>
       <link>https://opensuspect.com/about-hugo/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
       <guid>https://opensuspect.com/about-hugo/</guid>
-      <description>OpenSuspect is an open source game inspired by great works such as mafia and Among Us. This project has lots of contributors and still needs help! Join us on Matrix and Github</description>
+      <description>Hugo is the world’s fastest framework for building websites. It is written in Go.
+It makes use of a variety of open source projects including:
+ https://github.com/russross/blackfriday https://github.com/alecthomas/chroma https://github.com/muesli/smartcrop https://github.com/spf13/cobra https://github.com/spf13/viper  Learn more and contribute on GitHub.</description>
+    </item>
+    
+    <item>
+      <title>Devlog 3</title>
+      <link>https://opensuspect.com/posts/devlog-3/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensuspect.com/posts/devlog-3/</guid>
+      <description>Hey, it&amp;rsquo;s me. I&amp;rsquo;m theslaughterbehindtheman. Now that Moxxy has been bound and gagged relieved of his duty, I will be doing the devlog from here.
+So, big stuff that&amp;rsquo;s happened. We now have our first task, which is a huge milestone, since all of the logic behind it can be reused for all the other ones. We sorta chose a theme, lobby, etc. Our lobby is going to be a train with a moving background.</description>
     </item>
     
   </channel>
