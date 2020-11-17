@@ -18,6 +18,11 @@
   </url>
   
   <url>
+    <loc>https://opensuspect.com/posts/devlog-3/</loc>
+    <lastmod>2020-11-01T13:41:00-05:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://opensuspect.com/posts/devlog-2/</loc>
     <lastmod>2020-10-24T13:40:57-05:00</lastmod>
   </url>
@@ -50,10 +55,6 @@
   <url>
     <loc>https://opensuspect.com/about-hugo/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://opensuspect.com/posts/devlog-3/</loc>
   </url>
   
 </urlset>
