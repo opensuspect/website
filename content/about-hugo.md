@@ -1,6 +1,17 @@
 +++
-title = "About OpenSuspect"
+title = "About Hugo"
 date = "2014-04-09"
 +++
 
-OpenSuspect is an open source game inspired by great works such as mafia and Among Us. This project has lots of contributors and still needs help! Join us on [Matrix](https://matrix.to/#/+opensuspect:matrix.org) and [Github](https://github.com/opensuspect/opensuspect)
+Hugo is the **world’s fastest framework for building websites**. It is written in Go.
+
+It makes use of a variety of open source projects including:
+
+* https://github.com/russross/blackfriday
+* https://github.com/alecthomas/chroma
+* https://github.com/muesli/smartcrop
+* https://github.com/spf13/cobra
+* https://github.com/spf13/viper
+
+Learn more and contribute on [GitHub](https://github.com/gohugoio).
+
