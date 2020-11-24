@@ -1,4 +1,0 @@
-AuthType Basic
-AuthName "Password Protected Area"
-AuthUserFile public/donotlook/please/stop/.htpasswd
-Require valid-user
