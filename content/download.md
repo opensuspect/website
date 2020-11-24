@@ -2,7 +2,7 @@
 This is where you will find the downloads for OpenSuspect. 
 
 {{< button "https://github.com/opensuspect/opensuspect" "Download (Linux)" >}}
-{{< button "https://computefreely.org/" "Download (Windows)" >}}
+{{< button "https://computefreely.org/switching/" "Download (Windows)" >}}
 
 
 ### Install Instructions:
