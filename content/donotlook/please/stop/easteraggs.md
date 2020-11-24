@@ -1,1 +1,0 @@
-LIST OF EATSTER EGGS!!!!!!
