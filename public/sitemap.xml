@@ -63,8 +63,16 @@
   </url>
   
   <url>
+    <loc>https://opensuspect.com/donotlook/please/stop/easteraggs/</loc>
+  </url>
+  
+  <url>
     <loc>https://opensuspect.com/download/</loc>
     <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://opensuspect.com/donotlook/</loc>
   </url>
   
 </urlset>
