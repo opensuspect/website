@@ -1,9 +1,9 @@
 # Download
 This is where you will find the downloads for OpenSuspect. 
 
-[Download For Linux](https://github.com/opensuspect/opensuspect)
+{{< button "https://github.com/opensuspect/opensuspect" "Download (Linux)" >}}
+{{< button "https://www.youtube.com/watch?v=dQw4w9WgXcQ&list=PL45I7czocaVJmE4FQrV4r6R5SL47hIs-O&index=92" "Download (Windows)" >}}
 
-[Download For Windows](https://github.com/opensuspect/opensuspect)
 
 ### Install Instructions:
 

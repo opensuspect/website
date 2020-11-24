@@ -94,9 +94,7 @@ This project is in very early stage development. Interested to get involved? We&
       
       <guid>https://opensuspect.com/download/</guid>
       <description>Download This is where you will find the downloads for OpenSuspect.
-Download For Linux
-Download For Windows
-Install Instructions: The game is still in beta, so there are no compiled versions. To install the game, do the following
+Download (Linux) Download (Windows) Install Instructions: The game is still in beta, so there are no compiled versions. To install the game, do the following
  Download the Godot game engine  Get the game engine executable, and then run it
 Get git-lfs  Opensuspect uses git-lfs for file handling, so you need to install that for your OS.</description>
     </item>
