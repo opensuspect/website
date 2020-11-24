@@ -5,7 +5,7 @@ This is where you will find the downloads for OpenSuspect.
 
 [Download For Windows](https://github.com/opensuspect/opensuspect)
 
-Install Instructions:
+### Install Instructions:
 
 The game is still in beta, so there are no compiled versions. To install the game, do the following
 
@@ -16,6 +16,8 @@ Get the game engine executable, and then run it
 2. Get git-lfs
 
 Opensuspect uses git-lfs for file handling, so you need to install that for your OS.
+
+<https://git-lfs.github.com/>
 
 3. Clone the git repo
 
