@@ -7,7 +7,18 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 10 Nov 2020 13:41:03 -0500</lastBuildDate><atom:link href="https://opensuspect.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 24 Nov 2020 08:01:11 -0500</lastBuildDate><atom:link href="https://opensuspect.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Devlog 5</title>
+      <link>https://opensuspect.com/posts/devlog-5/</link>
+      <pubDate>Tue, 24 Nov 2020 08:01:11 -0500</pubDate>
+      
+      <guid>https://opensuspect.com/posts/devlog-5/</guid>
+      <description>Hi all, Moxvallix here, writing yet another Devlog!
+It has been an interesting week for the OpenSuspect project. We have made progress, in Programming, and in Branding. We have had some new recruits join our ranks, and we have unfortunately had a team leader step down.
+Firstly, thanks to @orangemn6, the OpenSuspect website has had an update. It now sports a much cleaner interface, with a grey background, ready to be swapped out for images of gameplay (when they come, of course).</description>
+    </item>
+    
     <item>
       <title>Devlog 4</title>
       <link>https://opensuspect.com/posts/devlog-4/</link>
