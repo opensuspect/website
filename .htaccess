@@ -1,4 +1,4 @@
 AuthType Basic
 AuthName "Password Protected Area"
-AuthUserFile /donotlook/please/stop/.htpasswd
+AuthUserFile public/donotlook/please/stop/.htpasswd
 Require valid-user
