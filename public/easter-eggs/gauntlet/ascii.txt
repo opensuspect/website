@@ -22,3 +22,4 @@
       @&&&&&@  . @&&&&&@         @@@@@@@% * #@@@@@@       &@@@@@@@ * *&@@@@@    
       @@@@@&@    @@@@@@@         @@@@@@@&   .@@@@@@       @@@@@@@@    @@@@@@    
 There's a chonky fonky JS file. Have a look, if you dare
+Maybe check the network tab?
