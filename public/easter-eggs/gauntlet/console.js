@@ -1,5 +1,5 @@
 function printconsole() {
-    fetch("ascii.txt")
+    fetch("/easter-eggs/gauntlet/ascii.txt")
         .then(a => a.text())
         .then(result => {
             console.log(result)
