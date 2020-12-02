@@ -1,0 +1,349 @@
+<!DOCTYPE html>
+<!-- BE GOOD -->
+<html class="no-js embed interactive firefox desktop supported mousable dragFile cookies" data-environment="production" data-version="v-2012020624-production" data-layout="grid" lang="en"><script type="text/javascript" async="" src="1lynljjlpe3d0365_data/alexa-20200924.js"></script><script src="1lynljjlpe3d0365_data/Indicative.txt" type="text/javascript" async=""></script><script type="text/javascript" class="__REQUESTLY__SCRIPT">(function(namespace) {
+  window[namespace] = window[namespace] || {};
+  window[namespace].responseRules = {};
+
+  let open = XMLHttpRequest.prototype.open;
+  XMLHttpRequest.prototype.open = function(method) {
+    this.addEventListener('readystatechange', function() {
+      if (this.readyState === 4 && window[namespace].responseRules.hasOwnProperty(this.responseURL)) {
+        const responseRule = window[namespace].responseRules[this.responseURL];
+        const {response, id} = responseRule;
+        const responseType = this.responseType;
+        let customResponse;
+
+        customResponse = response.type === 'code' ? responseRule.evaluator({
+            method,
+            url: this.responseURL,
+            requestHeaders: this.requestHeaders,
+            requestData: this.requestData,
+            responseType: this.responseType,
+            response: this.response
+          }) : response.value;
+
+        Object.defineProperty(this, 'response', {
+          get: function () {
+            if (response.type === 'static' && responseType === 'json') {
+              return JSON.parse(customResponse);
+            }
+            return customResponse;
+          }
+        });
+
+        if (responseType === '' || responseType === 'text') {
+          Object.defineProperty(this, 'responseText', {
+            get: function () {
+              return customResponse;
+            }
+          });
+        }
+
+        window.postMessage({
+          from: 'requestly',
+          type: 'response_rule_applied',
+          id
+        }, window.location.href);
+      }
+    }, false);
+    open.apply(this, arguments);
+  };
+
+  let send = XMLHttpRequest.prototype.send;
+  XMLHttpRequest.prototype.send = function(data) {
+    this.requestData = data;
+    send.apply(this, arguments);
+  };
+
+  let setRequestHeader = XMLHttpRequest.prototype.setRequestHeader;
+  XMLHttpRequest.prototype.setRequestHeader = function(header, value) {
+    this.requestHeaders = this.requestHeaders || {};
+    this.requestHeaders[header] = value;
+    setRequestHeader.apply(this, arguments);
+  }
+})('__REQUESTLY__')</script><head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8"><style type="text/css" data-tag-name="trix-editor">trix-editor {
+  display: block;
+}
+
+trix-editor:empty:not(:focus)::before {
+  content: attr(placeholder);
+  color: graytext;
+  cursor: text;
+}
+
+trix-editor a[contenteditable=false] {
+  cursor: text;
+}
+
+trix-editor img {
+  max-width: 100%;
+  height: auto;
+}
+
+trix-editor [data-trix-attachment] figcaption textarea {
+  resize: none;
+}
+
+trix-editor [data-trix-attachment] figcaption textarea.trix-autoresize-clone {
+  position: absolute;
+  left: -9999px;
+  max-height: 0px;
+}
+
+trix-editor [data-trix-attachment] figcaption[data-trix-placeholder]:empty::before {
+  content: attr(data-trix-placeholder);
+  color: graytext;
+}
+
+trix-editor [data-trix-cursor-target] {
+  display: inline-block !important;
+  width: 1px !important;
+  padding: 0 !important;
+  margin: 0 !important;
+  border: none !important;
+}
+
+trix-editor [data-trix-cursor-target=left] {
+  vertical-align: top !important;
+  margin-left: -1px !important;
+}
+
+trix-editor [data-trix-cursor-target=right] {
+  vertical-align: bottom !important;
+  margin-right: -1px !important;
+}</style><style type="text/css" data-tag-name="trix-toolbar">trix-toolbar {
+  display: block;
+}
+
+trix-toolbar {
+  white-space: nowrap;
+}
+
+trix-toolbar [data-trix-dialog] {
+  display: none;
+}
+
+trix-toolbar [data-trix-dialog][data-trix-active] {
+  display: block;
+}
+
+trix-toolbar [data-trix-dialog] [data-trix-validate]:invalid {
+  background-color: #ffdddd;
+}</style>
+    <meta name="action-cable-uri" content="wss://rt.padlet.com/_/cable">
+    <meta charset="utf-8">
+    <meta http-equiv="x-ua-compatible" content="ie=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0, viewport-fit=cover">
+    <link rel="manifest" href="https://padlet.com/manifest.json">
+    <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="zClzCYZW7GMmiRgpz+lKacc9KORJZhLxHV85LwPwT0TYnBD8der9Y2lEgT/Mny6eyq1m/rrw3hG+uzvLMC8vdA==">
+      <link rel="prefetch" href="https://s1.padlet.net/libraries/pspdfkit/2020.2.2/pspdfkit-lib/pspdfkit-7df7deb39d8228a9.wasm">
+
+    <link href="https://padlet.net/assets/favicon-5412204e97881d39085ffd59c206bf5ef7e9d6c7b08be16f51e6508cf266aeee.ico" rel="icon">
+<link href="https://padlet.com/apple-touch-icon.png" rel="apple-touch-icon">
+
+      <meta property="og:type" content="website">
+  <meta property="og:url" content="https://padlet.com/jbensa081/Bookmarks">
+  <meta property="og:title" content="Opensuspect Easter Eggs">
+  <meta property="og:description" content="Ideas">
+  <meta property="og:image" content="https://padlet.pics/1/image?t=ar_2,c_lfill,dpr_1,f_jpg,g_auto,h_600,w_1200&amp;url=https%3A%2F%2Fassets.padletcdn.com%2Fstatic%2Fpadlets%2F1lynljjlpe3d0365%2Fexports%2Fpeek%2F1606767751%2FQkFoN0J6b1BjSFZpYkdsalgydGxlVWtpRlRGc2VXNXNhbXBzY0dVelpEQXpOalVHT2daRlZEb01kbVZ5YzJsdmJra2lEekUyTURZM05qYzNOVEVHT3daRy0tMmE3ZjE1Y2JkYWY1NDVhZjM3NWQ0MzUxMjQ4MjlhZDNjYjQ2YjY0NA--">
+  <meta property="og:updated_time" content="2020-11-30 20:22:31 UTC">
+  <meta property="og:site_name" content="Padlet">
+  <meta property="fb:app_id" content="166448900169195">
+  <meta name="twitter:site" content="@padlet">
+  <meta name="twitter:card" content="summary_large_image">
+  <meta name="twitter:title" content="Opensuspect Easter Eggs">
+  <meta name="twitter:description" content="Ideas">
+  <meta name="twitter:image" content="https://padlet.pics/1/image?t=ar_2,c_lfill,dpr_1,f_jpg,g_auto,h_600,w_1200&amp;url=https%3A%2F%2Fassets.padletcdn.com%2Fstatic%2Fpadlets%2F1lynljjlpe3d0365%2Fexports%2Fpeek%2F1606767751%2FQkFoN0J6b1BjSFZpYkdsalgydGxlVWtpRlRGc2VXNXNhbXBzY0dVelpEQXpOalVHT2daRlZEb01kbVZ5YzJsdmJra2lEekUyTURZM05qYzNOVEVHT3daRy0tMmE3ZjE1Y2JkYWY1NDVhZjM3NWQ0MzUxMjQ4MjlhZDNjYjQ2YjY0NA--">
+
+    <script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "WebPage",
+  "url": "https://padlet.com/jbensa081/Bookmarks",
+  "name": "Opensuspect Easter Eggs",
+  "description": "Ideas",
+  "keywords": "",
+  "dateModified": "2020-11-30 20:22:31 UTC",
+  "dateCreated": "2020-11-25 02:58:54 UTC",
+  "author": {
+    "@type": "Person",
+    "name": "john benson",
+    "url": "https://padlet.com/jbensa081"
+  }
+}
+</script>
+<script type="application/ld+json">
+{
+  "@context": "http://schema.org",
+  "@type": "BreadcrumbList",
+  "itemListElement": [{
+    "@type": "ListItem",
+    "position": 1,
+    "item": {
+      "@id": "https://padlet.com/jbensa081",
+      "name": "john benson",
+      "image": "https://lh6.googleusercontent.com/-UvoGgr9Jiio/AAAAAAAAAAI/AAAAAAAAAAA/AMZuuclo_nO2jbZRcuZwvawTNBv0GF-6Mw/s96-c/photo.jpg"
+    }
+  }, {
+    "@type": "ListItem",
+    "position": 2,
+    "item": {
+      "@id": "https://padlet.com/jbensa081/Bookmarks",
+      "name": "Opensuspect Easter Eggs",
+      "image": "https://assets.padletcdn.com/static/padlets/1lynljjlpe3d0365/exports/peek/1606767751/QkFoN0J6b1BjSFZpYkdsalgydGxlVWtpRlRGc2VXNXNhbXBzY0dVelpEQXpOalVHT2daRlZEb01kbVZ5YzJsdmJra2lEekUyTURZM05qYzNOVEVHT3daRy0tMmE3ZjE1Y2JkYWY1NDVhZjM3NWQ0MzUxMjQ4MjlhZDNjYjQ2YjY0NA--"
+    }
+  }]
+}
+</script>
+
+    <title>Opensuspect Easter Eggs</title>
+    <link rel="alternate" type="application/rss+xml" title="Opensuspect Easter Eggs" href="https://padlet.com/padlets/1lynljjlpe3d0365/exports/feed.xml">
+    <link rel="canonical" href="https://padlet.com/jbensa081/Bookmarks">
+    <meta name="theme-color" content="rgb(0,0,0)">
+    <meta content="Vlu6bFyu0MZRb2mOd4CKPsSpUQ3Ca/JGklE14vPPYAc=" name="verify-v1">
+    
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="1lynljjlpe3d0365_data/js"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-4M6WGE55N0', {
+    'anonymize_ip': true,
+    'user_id': 882026180,
+  });
+  gtag('set', 'user_properties', {
+    'registration_status': 'Registered',
+    'plan_name': 'vanilla',
+    'days_since_first_visit': 5,
+  })
+</script>
+
+<script>var oldTimeSincePageLoad;window.ww||(window.ww={}),ww.analytics={},oldTimeSincePageLoad=null,ww.analytics.trackTiming=function(e,n){var a,t;if(window.performance)return a=(t=performance.now())-(oldTimeSincePageLoad||0),gtag("event","timing_complete",{event_category:e,name:n,value:a}),oldTimeSincePageLoad=t,a},ww.analytics.trackEventTiming=function(e,n,a,t){return gtag("event","timing_complete",{event_category:n,event_label:t,name:a,value:e})},ww.analytics.trackEvent=function(e,n,a,t){if(null!=n)return gtag("event",n,{event_category:e,event_label:a,value:t})};</script>
+<!-- Indicative analytics -->
+<script type="text/javascript">
+  (function(apiKey) {
+    var ind = document.createElement('script');
+    ind.src = '//cdn.indicative.com/js/Indicative.min.js';
+    ind.type = 'text/javascript'; ind.async = 'true';
+    var ind_init = false;
+    ind.onload = ind.onreadystatechange = function() {
+      var rs = this.readyState;
+      if (ind_init || (rs && rs != 'complete' && rs != 'loaded')) return;
+      ind_init = true;
+      Indicative.initialize(apiKey, {recordSessions: true, sessionsThreshold: 30, cookiesOnMainDomain: false });
+      Indicative.setUniqueID('882026180', true)
+      Indicative.buildEvent('page_view', {"user_id":882026180,"user_age":5,"plan_name":"vanilla","country":"US","tenant_id":1,"paying":false,"role":"member","lang":"en","created_at":"2020-11-27T04:44:17.745Z","walls_used":1,"walls_limit":3,"free_tier":5,"is_registered":true,"free_trial":"trial"})
+    };
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(ind, s);
+  }
+  )("e42b4377-7049-4dec-9c6c-2b2ae32d79d4");
+  </script>
+<script data-turbolinks-eval="false">
+  _atrk_opts = {atrk_acct:"4vU8j1a8Dy00yS", domain:"padlet.com",dynamic: true};
+  (function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://padlet.net/libraries/alexa-20200924.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
+</script>
+<noscript>
+  <img alt="" src="https://certify.alexametrics.com/atrk.gif?account=4vU8j1a8Dy00yS", style="display:none;width:1px;height:1px" width="1" height="1" />
+</noscript>
+
+
+      <link rel="stylesheet" media="screen" href="1lynljjlpe3d0365_data/kit-13e74bfdec5d314145832c9bd0086489c8ade80e8ba6fa2e81475196.css">
+  <link rel="stylesheet" media="screen" href="1lynljjlpe3d0365_data/show-b4ad58fe4242965ff4a3d684f64acdae68bf7db1be1a197283ff13b.css">
+  <link rel="stylesheet" media="screen" href="1lynljjlpe3d0365_data/surface-3b35cc78.css">
+  <link rel="stylesheet" media="print" href="1lynljjlpe3d0365_data/print-6e36d841dd68cf5f1d3dbfab8d92b0b673bab784227725253ccb70.css">
+  <link rel="stylesheet" media="screen" href="1lynljjlpe3d0365_data/grid-12fecb63007e313e58824707c2e7c5d119657fd0979c1c424c26091.css">
+
+    
+    
+    
+    <script>
+    document.cookie="ww_dpr="+Math.round(window.devicePixelRatio)+"; expires=Tue, 19 Aug 2042 21:56:52 GMT; path=/"
+    ww.uid = "" + (new Date().getTime() + "" + Math.random()).replace(".","");
+    ww.flip = { wishOrderArray: false, debugFrontend: false }
+    </script>
+    <style>body{background-image:url(https://padlet.pics/1/image?t=c_scale,dpr_1,e_blur:1000,f_jpg,h_60,w_60&url=https%3A%2F%2Fpadlet-assets.s3.amazonaws.com%2Fwallpapers%2Fend_credits.png);background-size:cover;}</style>
+    <!-- base href="https://padlet.com/embed/1lynljjlpe3d0365" -->
+  <script async="" src="1lynljjlpe3d0365_data/api.js"></script><link rel="stylesheet" type="text/css" href="1lynljjlpe3d0365_data/4-50f98ec8.css"><script charset="utf-8" src="1lynljjlpe3d0365_data/4-82c428e851db796d49d9.js"></script><link rel="stylesheet" type="text/css" href="1lynljjlpe3d0365_data/5-6790564f.css"><script charset="utf-8" src="1lynljjlpe3d0365_data/5-f3e1680dd4c7736f6dc0.js"></script><link rel="stylesheet" type="text/css" href="1lynljjlpe3d0365_data/70-deaab0a8.css"><script charset="utf-8" src="1lynljjlpe3d0365_data/70-a319bfeedc8a4deaba35.js"></script><link rel="stylesheet" type="text/css" href="1lynljjlpe3d0365_data/103-f2148b70.css"><script charset="utf-8" src="1lynljjlpe3d0365_data/103-24187a3df2130ae8f992.js"></script><script charset="utf-8" src="1lynljjlpe3d0365_data/113-9241ad651948ed571792.js"></script><link rel="stylesheet" type="text/css" href="1lynljjlpe3d0365_data/83-10cc1b18.css"><script charset="utf-8" src="1lynljjlpe3d0365_data/83-666b63981859f31575de.js"></script></head>
+  <body ww-app-env="production" ww-app-version="v-2012020624-production" ww-app-variant="desktop" ww-variant-version="" class="variant-desktop" data-behavior="background-holder" data-color-scheme="dark" data-font="1" style="background-size: auto; background-image: url(&quot;https://padlet.pics/1/image?t=c_lfill,dpr_1,f_auto,g_auto,h_768,q_auto:best,w_1366&amp;url=https%3A%2F%2Fpadlet-assets.s3.amazonaws.com%2Fwallpapers%2Fend_credits.png&quot;);">
+      <script>
+  var img = new Image()
+  img.onload = function() {document.querySelector("body").style.backgroundSize = "auto";document.querySelector("body").style.backgroundImage = 'url('+img.src+')';}
+  img.src = "https://padlet.pics/1/image?t=c_lfill,dpr_1,f_auto,g_auto,h_{height},q_auto:best,w_{width}&url=https%3A%2F%2Fpadlet-assets.s3.amazonaws.com%2Fwallpapers%2Fend_credits.png".replace("{width}", screen.width).replace("{height}", screen.height)
+</script>
+
+        <div id="diagnostics">
+    Trouble viewing this page? Go to our <a href="https://padlet.com/diagnostics" target="_blank">diagnostics page</a> to see what's wrong.
+  </div>
+
+      <link rel="preload" as="fetch" id="starting-state-preload" href="https://padlet.com/api/1/padlet_starting_state?token=QkFoN0J6b01jR0Y1Ykc5aFpIc01PZ3gxYzJWeVgybGthUVRFcHBJME9neDNZV3hzWDJsa2FRVDM4cTBGT2hKcGMxOW1hWEp6ZEY5MmFXVjNSam9SYVhOZmNtVmhaRjl2Ym14NU1Eb1FhWE5mWlcxaVpXUmtaV1JVT2hCaGNuWnZYMk52Ym1acFozc0hPZ3hqWkc1SWIzTjBTU0laWVhOelpYUnpMbkJoWkd4bGRHTmtiaTVqYjIwR09nWkZWRG9LZEc5clpXNTdCam9QYjJGMWRHaFViMnRsYmtraVJUQmhOalpqTkRoa1lXUTNNRGsyTWpZNU1qa3hNR0poTXpFd1kyVTJPRE5pWWpkaU9HTTFORGt3TWpZNE1ESmlZVFJqWkdVMFpHWmxOMkl3Tm1Fek1qSUdPdzFVT2cxMWMyVmZZWEoyYjFRNkQyVjRjR2x5WlhOZllYUlZPaUJCWTNScGRtVlRkWEJ3YjNKME9qcFVhVzFsVjJsMGFGcHZibVZiQ0VsMU9nbFVhVzFsRFZNc0hzQmRQTnFxQ1RvSmVtOXVaVWtpQ0ZWVVF3WTdEVVk2RFc1aGJtOWZiblZ0YVFLN0Fqb05ibUZ1YjE5a1pXNXBCam9OYzNWaWJXbGpjbThpQjJtUVNTSUlWVlJEQmpzTlZFQVAtLWFmMzFlOTdkMDU1N2RlZjViNzEzNWJiYTc4N2VkMzkwNzQ4ZDJmZTA-">
+
+
+<a name="accessibility-skip-head" id="maincontent"></a>
+<div id="print-notification" title="To print this page properly, open the &quot;Share&quot; menu on the top right of the page and select &quot;Print&quot;."></div>
+
+<div data-v-1eb21e46="" id="app"><!----> <!----> <div data-v-3e7ad1d0="" data-v-1eb21e46="" id="wall-container" class="sans-font-family"><div id="surface-header" data-luminance="dark" class="app-bar surface-header" style="background-color: rgb(0, 0, 0);"><div class="rubber-band-scroll-padder" style="background-color: rgb(0, 0, 0);"></div> <div data-v-6fa34da1="" class="app-bar-nav"><div data-v-6fa34da1="" class="surface-builder"><a href="https://padlet.com/jbensa081" target="_blank" class="builder-id caption-type"><img src="1lynljjlpe3d0365_data/image.webp" alt="Avatar of john benson" role="presentation" class="avatar builder-avatar" width="16" height="16"> <span class="builder-name">john benson</span></a> <div title="2 contributors" class="builder-contributors">
+    &nbsp;+&nbsp;<span class="builder-contributors-count caption-type">
+      2
+    </span></div> <div class="builder-separator">●</div> <time title="11/30/2020, 12:22:31 PM" class="builder-time caption-type">2d</time> <!----></div> <div data-v-6fa34da1="" class="app-bar-menu"><li><button class="app-bar-button" title="Like"><i data-v-3bba6858="" aria-hidden="true" class="immaterial-icons">favorite_border</i></button></li> <li><a role="button" target="_blank" href="https://padlet.com/jbensa081/Bookmarks#remake" class="app-bar-button app-bar-icon-text-button"><i data-v-3bba6858="" aria-hidden="true" class="immaterial-icons">remake</i> <span class="responsive-no-phone-only">Remake</span></a></li> <li><a role="button" target="_blank" href="https://padlet.com/jbensa081/Bookmarks#share" class="app-bar-button app-bar-icon-text-button"><i data-v-3bba6858="" aria-hidden="true" class="immaterial-icons">share_arrow</i> <span class="responsive-no-phone-only">Share</span></a></li> <li><a role="button" target="_blank" href="https://padlet.com/jbensa081/Bookmarks" class="app-bar-button" title="Open in new"><i data-v-3bba6858="" aria-hidden="true" class="immaterial-icons">open_in_new</i></a></li></div></div> <div data-v-228ee049="" class="has-title has-description surface-title"><div data-v-228ee049="" dir="auto" class="title-container"><!----> <div data-v-228ee049="" class="title-text"><h1 data-v-228ee049="" class="title-heading">Opensuspect Easter Eggs</h1> <h2 data-v-228ee049="" class="title-description caption-type">Ideas</h2> <!----></div></div></div></div> <div id="wish-list" class="wish-list shapeshifted_container_9reob" style="height: 724px;"><div data-v-fbeba000="" id="wish-973291838" data-view-mode="show" data-post-cid="c973291838" data-rank="506449744896" data-index="1" class="surface-post wish ss-active-child" style="left: 16.1255px; top: 15px;"><div data-v-0080ff5f="" data-v-fbeba000="" class="wish-frame"><div data-v-0080ff5f="" class="real-wish"><h3 data-v-0080ff5f="" tabindex="0" class="accessibility oob">SUPERPOWER</h3> <!----> <section data-v-0080ff5f="" class="words"><div data-v-0080ff5f="" class="with-subject with-body"><div dir="auto" class="subject">SUPERPOWER</div> <div dir="auto" class="body"><div>when you press a certain keybind it will make you able to fly through walls and go super fast<br><br></div></div></div></section> <!----> <!----> <!----></div> <div data-v-197cdeba="" data-v-0080ff5f="" data-theme="dark" class="surface-post-actions"><div data-v-197cdeba="" class="actions-icon-list"><!----> <!----> <button data-v-197cdeba="" class="icon-button-inverse actions-more" title="More actions"><!----> <i data-v-3bba6858="" data-v-197cdeba="" aria-hidden="true" class="immaterial-icons">more_vert</i></button></div></div></div> <!----></div><div data-v-fbeba000="" id="wish-964858690" data-view-mode="show" data-post-cid="c964858690" data-rank="110128996352" data-index="2" class="surface-post wish ss-active-child" style="left: 249.709px; top: 15px;"><div data-v-0080ff5f="" data-v-fbeba000="" class="wish-frame"><div data-v-0080ff5f="" class="real-wish"><h3 data-v-0080ff5f="" tabindex="0" class="accessibility oob">How to add an easter egg (draft plan)</h3> <!----> <section data-v-0080ff5f="" class="words"><div data-v-0080ff5f="" class="with-subject with-body"><div dir="auto" class="subject">How to add an easter egg (draft plan)</div> <div dir="auto" class="body"><div>1. Add easter egg<br>2. Tell the EESquad chat<br>3. wait until someone can review your PR<br>4. submit PR with vague name like "fixed stuff that was borked"<br>5. other EESquad member reviews pull request and merges<br>6. rinse and repeat</div></div></div></section> <!----> <!----> <!----></div> <div data-v-197cdeba="" data-v-0080ff5f="" data-theme="dark" class="surface-post-actions"><div data-v-197cdeba="" class="actions-icon-list"><!----> <!----> <button data-v-197cdeba="" class="icon-button-inverse actions-more" title="More actions"><!----> <i data-v-3bba6858="" data-v-197cdeba="" aria-hidden="true" class="immaterial-icons">more_vert</i></button></div></div></div> <!----></div><div data-v-fbeba000="" id="wish-959880760" data-view-mode="show" data-post-cid="c959880760" data-rank="40431232000" data-index="3" class="surface-post wish ss-active-child" style="left: 483.292px; top: 15px;"><div data-v-0080ff5f="" data-v-fbeba000="" class="wish-frame"><div data-v-0080ff5f="" class="real-wish"><h3 data-v-0080ff5f="" tabindex="0" class="accessibility oob">Gauntlet</h3> <!----> <section data-v-0080ff5f="" class="words"><div data-v-0080ff5f="" class="with-subject with-body"><div dir="auto" class="subject">Gauntlet</div> <div dir="auto" class="body"><div>To be part of the Easter Egg squad you must do the following:<br>1. Sign up for hackthebox<br>2.&nbsp; Must make a post on reddit showing opensuspect and it must get 20+ upvotes<br>3. You have to post nicemicro.png in general out of context<br>4. Must be subbed to pewdiepie and chris titus tech<br>5. Must complete THE SECOND GAUNTLET!!</div></div></div></section> <!----> <!----> <!----></div> <div data-v-197cdeba="" data-v-0080ff5f="" data-theme="dark" class="surface-post-actions"><div data-v-197cdeba="" class="actions-icon-list"><!----> <!----> <button data-v-197cdeba="" class="icon-button-inverse actions-more" title="More actions"><!----> <i data-v-3bba6858="" data-v-197cdeba="" aria-hidden="true" class="immaterial-icons">more_vert</i></button></div></div></div> <!----></div><div data-v-fbeba000="" id="wish-959571352" data-view-mode="show" data-post-cid="c959571352" data-rank="36716869120" data-index="4" class="surface-post wish ss-active-child" style="left: 16.1255px; top: 206px;"><div data-v-0080ff5f="" data-v-fbeba000="" class="wish-frame"><div data-v-0080ff5f="" class="real-wish"><h3 data-v-0080ff5f="" tabindex="0" class="accessibility oob">Rules of Easter Egg squad:</h3> <!----> <section data-v-0080ff5f="" class="words"><div data-v-0080ff5f="" class="with-subject with-body"><div dir="auto" class="subject">Rules of Easter Egg squad:</div> <div dir="auto" class="body"><div>1. A #eesquad must always be met with an "eesquad rise!"<br>2. One must not reveal the secrets of EEsquad, except in mystic foreshadowing designed to confuse and sound cool<br>3. Breakage of the rules means that the rule breaker is thrown into the pit of anarchy which will destroy your PC because of a big redstone thing orangemn6's ffriend built</div></div></div></section> <!----> <!----> <!----></div> <div data-v-197cdeba="" data-v-0080ff5f="" data-theme="dark" class="surface-post-actions"><div data-v-197cdeba="" class="actions-icon-list"><!----> <!----> <button data-v-197cdeba="" class="icon-button-inverse actions-more" title="More actions"><!----> <i data-v-3bba6858="" data-v-197cdeba="" aria-hidden="true" class="immaterial-icons">more_vert</i></button></div></div></div> <!----></div><div data-v-fbeba000="" id="wish-959566021" data-view-mode="show" data-post-cid="c959566021" data-rank="33002506240" data-index="5" class="surface-post wish ss-active-child" style="left: 249.709px; top: 374px;"><div data-v-0080ff5f="" data-v-fbeba000="" class="wish-frame"><div data-v-0080ff5f="" class="real-wish"><h3 data-v-0080ff5f="" tabindex="0" class="accessibility oob">Sneaky idea</h3> <!----> <section data-v-0080ff5f="" class="words"><div data-v-0080ff5f="" class="with-subject with-body"><div dir="auto" class="subject">Sneaky idea</div> <div dir="auto" class="body"><div>We need to set up the Easter Eggs to look for a certain text file in the source code, or not activate. That way, we can push the Easter eggs before release, but then have them slip past playtesting, until at the last minute before release we push the file. Sneak 100.</div></div></div></section> <!----> <!----> <!----></div> <div data-v-197cdeba="" data-v-0080ff5f="" data-theme="dark" class="surface-post-actions"><div data-v-197cdeba="" class="actions-icon-list"><!----> <!----> <button data-v-197cdeba="" class="icon-button-inverse actions-more" title="More actions"><!----> <i data-v-3bba6858="" data-v-197cdeba="" aria-hidden="true" class="immaterial-icons">more_vert</i></button></div></div></div> <!----></div><div data-v-fbeba000="" id="wish-958519454" data-view-mode="show" data-post-cid="c958519454" data-rank="434295808" data-index="6" class="surface-post wish ss-active-child" style="left: 483.292px; top: 422px;"><div data-v-0080ff5f="" data-v-fbeba000="" class="wish-frame"><div data-v-0080ff5f="" class="real-wish"><h3 data-v-0080ff5f="" tabindex="0" class="accessibility oob">Slaughterbehindtheman:  TBD</h3> <!----> <section data-v-0080ff5f="" class="words"><div data-v-0080ff5f="" class="with-subject"><div dir="auto" class="subject">Slaughterbehindtheman:  TBD</div> <!----></div></section> <!----> <!----> <!----></div> <div data-v-197cdeba="" data-v-0080ff5f="" data-theme="dark" class="surface-post-actions"><div data-v-197cdeba="" class="actions-icon-list"><!----> <!----> <button data-v-197cdeba="" class="icon-button-inverse actions-more" title="More actions"><!----> <i data-v-3bba6858="" data-v-197cdeba="" aria-hidden="true" class="immaterial-icons">more_vert</i></button></div></div></div> <!----></div><div data-v-fbeba000="" id="wish-958517806" data-view-mode="show" data-post-cid="c958517806" data-rank="367513600" data-index="7" class="surface-post wish ss-active-child" style="left: 483.292px; top: 509px;"><div data-v-0080ff5f="" data-v-fbeba000="" class="wish-frame"><div data-v-0080ff5f="" class="real-wish"><h3 data-v-0080ff5f="" tabindex="0" class="accessibility oob">Nicemicro: Face</h3> <!----> <section data-v-0080ff5f="" class="words"><div data-v-0080ff5f="" class="with-subject with-body"><div dir="auto" class="subject">Nicemicro: Face</div> <div dir="auto" class="body"><div>aka nicemicro.png</div></div></div></section> <!----> <!----> <!----></div> <div data-v-197cdeba="" data-v-0080ff5f="" data-theme="dark" class="surface-post-actions"><div data-v-197cdeba="" class="actions-icon-list"><!----> <!----> <button data-v-197cdeba="" class="icon-button-inverse actions-more" title="More actions"><!----> <i data-v-3bba6858="" data-v-197cdeba="" aria-hidden="true" class="immaterial-icons">more_vert</i></button></div></div></div> <!----></div><div data-v-fbeba000="" id="wish-958515714" data-view-mode="show" data-post-cid="c958515714" data-rank="292114432" data-index="8" class="surface-post wish ss-active-child" style="left: 483.292px; top: 604px;"><div data-v-0080ff5f="" data-v-fbeba000="" class="wish-frame"><div data-v-0080ff5f="" class="real-wish"><h3 data-v-0080ff5f="" tabindex="0" class="accessibility oob">Cukmekerb: Hairpods</h3> <!----> <section data-v-0080ff5f="" class="words"><div data-v-0080ff5f="" class="with-subject"><div dir="auto" class="subject">Cukmekerb: Hairpods</div> <!----></div></section> <!----> <!----> <!----></div> <div data-v-197cdeba="" data-v-0080ff5f="" data-theme="dark" class="surface-post-actions"><div data-v-197cdeba="" class="actions-icon-list"><!----> <!----> <button data-v-197cdeba="" class="icon-button-inverse actions-more" title="More actions"><!----> <i data-v-3bba6858="" data-v-197cdeba="" aria-hidden="true" class="immaterial-icons">more_vert</i></button></div></div></div> <!----></div><div data-v-fbeba000="" id="wish-958515395" data-view-mode="show" data-post-cid="c958515395" data-rank="279663616" data-index="9" class="surface-post wish with-attachment ss-active-child" style="left: 16.1255px; top: 637px;"><div data-v-0080ff5f="" data-v-fbeba000="" class="wish-frame"><div data-v-0080ff5f="" class="real-wish"><h3 data-v-0080ff5f="" tabindex="0" class="accessibility oob">Moxvallix: Gem</h3> <!----> <section data-v-0080ff5f="" class="words"><div data-v-0080ff5f="" class="with-subject"><div dir="auto" class="subject">Moxvallix: Gem</div> <!----></div></section> <!----> <!----> <!----></div> <div data-v-197cdeba="" data-v-0080ff5f="" data-theme="dark" class="surface-post-actions"><div data-v-197cdeba="" class="actions-icon-list"><!----> <!----> <button data-v-197cdeba="" class="icon-button-inverse actions-more" title="More actions"><!----> <i data-v-3bba6858="" data-v-197cdeba="" aria-hidden="true" class="immaterial-icons">more_vert</i></button></div></div></div> <!----></div><div data-v-fbeba000="" id="wish-958514870" data-view-mode="show" data-post-cid="c958514870" data-rank="278126592" data-index="10" class="surface-post wish with-attachment ss-active-child" style="left: 249.709px; top: 661px;"><div data-v-0080ff5f="" data-v-fbeba000="" class="wish-frame"><div data-v-0080ff5f="" class="real-wish"><h3 data-v-0080ff5f="" tabindex="0" class="accessibility oob">Orangemn6: Logo</h3> <!----> <section data-v-0080ff5f="" class="words"><div data-v-0080ff5f="" class="with-subject"><div dir="auto" class="subject">Orangemn6: Logo</div> <!----></div></section> <!----> <!----> <!----></div> <div data-v-197cdeba="" data-v-0080ff5f="" data-theme="dark" class="surface-post-actions"><div data-v-197cdeba="" class="actions-icon-list"><!----> <!----> <button data-v-197cdeba="" class="icon-button-inverse actions-more" title="More actions"><!----> <i data-v-3bba6858="" data-v-197cdeba="" aria-hidden="true" class="immaterial-icons">more_vert</i></button></div></div></div> <!----></div></div> <div class="wish-sizer"></div> <div class="gutter-sizer"></div></div> <div data-v-1eb21e46="" class="surface-add-post normalize-typography"><div class="add-post-button"><button class="floating-action-button" title="Add post"><i data-v-3bba6858="" aria-hidden="true" class="add-icon immaterial-icons">add</i> <i data-v-3bba6858="" aria-hidden="true" class="create-icon immaterial-icons">create</i></button> <div class="add-post-message">Double click anywhere, drag files in, paste from clipboard, or click here to post.</div></div> <!----> <!----> <!----> <!----> <div data-v-5e647ac4="" class="content-picker add-post-picker"><!----> <div data-v-5e647ac4="" class="content-panels"><!----></div> <!----> <!----></div></div> <div data-v-5bad7e2d="" data-v-1eb21e46="" class="surface-panels"><!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----> <!----></div></div>
+<script type="text/x-template" id="wish-expanded-tmpl">
+  <div class="wish-modal-toolbar">
+  <div class="index"></div>
+  <div class="nav-buttons">
+    <button class="first"><img width="16" height="16" alt="First" title="First" src="https://padlet.net/assets/first-7940844e0aabf8db4e1b8eafeb82c91dbe32b06a5099ac47ae7d6543cb68a780.svg" /></button>
+    <button class="previous"><img width="22" height="22" alt="Previous" title="Previous" src="https://padlet.net/assets/previous-eb97336459d63571791fb19aabb76c3daf87e6d7ddf6b6b505297f3171c183d3.svg" /></button>
+    <button class="next"><img width="22" height="22" alt="Next" title="Next" src="https://padlet.net/assets/next-8d55e0bc6c47e754076244441918363ffc1c10a851e7f700e0cc34a123138692.svg" /></button>
+    <button class="last"><img width="16" height="16" alt="Last" title="Last" src="https://padlet.net/assets/last-73e85eefdf3cfe1a3ea694a27a2720c6d2d2fee06f8c4c7b211a31d56a174578.svg" /></button>
+  </div>
+  <div class="close-button">
+    <button class="close"><img width="22" height="22" alt="Close" title="Close" src="https://padlet.net/assets/close-563671a9a513ec2227e2bffdd99e2812a89de76e7ff79532e4f55a8299209c74.svg" /></button>
+  </div>
+</div>
+
+<div class="wish-modal-popup">
+</div>
+
+</script>
+
+
+
+      
+      <script src="1lynljjlpe3d0365_data/polyfill.js" crossorigin="anonymous"></script>
+          <script src="1lynljjlpe3d0365_data/runtimesurface-5c0b52e3db8f723cb880.js"></script>
+<script src="1lynljjlpe3d0365_data/0-4b44b1fdaf2855cbe4cb.js"></script>
+<script src="1lynljjlpe3d0365_data/1-1727e29571712b7c3af1.js"></script>
+<script src="1lynljjlpe3d0365_data/surface-32711d6cd8ddce76a12a.js"></script>
+
+      
+    
+    <script>
+if (navigator.serviceWorker) {
+  if (navigator.serviceWorker.controller && /serviceworker\.js|OneSignalSDKWorker\.js/.test(navigator.serviceWorker.controller.scriptURL)) {
+    navigator.serviceWorker.getRegistrations().then(function(registrations){
+      for (var i in registrations) {
+        var registration = registrations[i];
+        if (registration.active && /serviceworker\.js|OneSignalSDKWorker\.js/.test(registration.active.scriptURL)) {
+          registration.unregister();
+        }
+      }
+    })
+  }
+  // NOTE: We shouldn't update the URL of this service.
+  // https://developers.google.com/web/fundamentals/primers/service-workers/lifecycle#avoid-url-change
+  navigator.serviceWorker.register('/sw.js?version=202007311200')
+    .then(function(reg) {
+      // console.log('[Companion]', 'Service worker registered!');
+    })
+    .catch(function(error) {
+      // console.warn('[Companion]', 'Service worker failed to register with the following error:', error);
+    });
+}
+</script>
+
+    <script src="1lynljjlpe3d0365_data/desktop_app-533df19fc72ccc764125be332e4cfeeb4438eccbbef9b7f62.js" data-turbolinks-eval="false"></script>
+  <script type="text/javascript">(function(){window['__CF$cv$params']={r:'5fb75c7d1e403a31',m:'fc11660f8a8fb092186641dd90cd4c0df996699c-1606936365-1800-AW7ikfU6izZfTMdIjiEOVGK2SkeJBPAcOJUnFexubiCVjC5jrrIJU41SNBmuy+KO8lCCf+uPVp8MIx07yFUGyzmYDv2BYesph4B0KPZSdvxuWiLMDdWJlWDLRruWER2Qo2vTHwtQuOQortKveLK9MmE=',s:[0x5b65273f01,0x8cef9fe175],}})();</script>
+
+</body></html>
