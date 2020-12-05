@@ -7,7 +7,17 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Tue, 24 Nov 2020 08:01:11 -0500</lastBuildDate><atom:link href="https://opensuspect.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 01 Dec 2020 08:01:11 -0500</lastBuildDate><atom:link href="https://opensuspect.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Devlog 6</title>
+      <link>https://opensuspect.com/posts/devlog-6/</link>
+      <pubDate>Tue, 01 Dec 2020 08:01:11 -0500</pubDate>
+      
+      <guid>https://opensuspect.com/posts/devlog-6/</guid>
+      <description>Hey whats up it’s orangemn6 here! Today I’ve come to write Devlog 6. So as you probably know we have a new website at opensuspect.com made by yours truly. Also, we have a new twitter account, @opensuspect. Get ready for us to dis among us every day. We also have a lot of new news, so let’s get right in!
+PR 217 So PR 217 destroyed everything. The end. (It will probably be fixed before I finish writing this though)</description>
+    </item>
+    
     <item>
       <title>Devlog 5</title>
       <link>https://opensuspect.com/posts/devlog-5/</link>
@@ -63,16 +73,6 @@ Recently, I posted Devlog #1, discussing the beginnings of our project, what our
       <guid>https://opensuspect.com/posts/devlog-1/</guid>
       <description>Welcome to the first Devlog of OpenSuspect! Written by none other than me, Moxvallix! (Soon to be written by the Branding Team!)
 It has been two weeks since the project first started, when NiceMicro first posted to r/linuxmasterrace, and I set up a Matrix community for the few that were interested. Since then, following a few more Reddit posts, the idea for making an open source, Among Us inspired game, gained some traction, and soon development had started (a lot quicker than Micro and I had expected).</description>
-    </item>
-    
-    <item>
-      <title>Typography</title>
-      <link>https://opensuspect.com/posts/typography/</link>
-      <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
-      
-      <guid>https://opensuspect.com/posts/typography/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
- An apple is a sweet, edible fruit produced by an apple tree (Malus pumila).</description>
     </item>
     
     <item>

@@ -6,8 +6,27 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Tue, 24 Nov 2020 08:01:11 -0500</lastBuildDate>
+		<lastBuildDate>Tue, 01 Dec 2020 08:01:11 -0500</lastBuildDate>
 		<atom:link href="https://opensuspect.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Devlog 6</title>
+			<link>https://opensuspect.com/posts/devlog-6/</link>
+			<pubDate>Tue, 01 Dec 2020 08:01:11 -0500</pubDate>
+			
+			<guid>https://opensuspect.com/posts/devlog-6/</guid>
+			<description>Hey whats up it’s orangemn6 here! Today I’ve come to write Devlog 6. So as you probably know we have a new website at opensuspect.com made by yours truly. Also, we have a new twitter account, @opensuspect. Get ready for us to dis among us every day. We also have a lot of new news, so let’s get right in!
+PR 217 So PR 217 destroyed everything. The end. (It will probably be fixed before I finish writing this though)</description>
+			<content type="html"><![CDATA[<p>Hey whats up it’s orangemn6 here! Today I’ve come to write Devlog 6. So as you probably know we have a new website at <a href="https://opensuspect.com">opensuspect.com</a> made by yours truly. Also, we have a new twitter account, @opensuspect. Get ready for us to dis among us every day. We also have a lot of new news, so let’s get right in!</p>
+<h3 id="pr-217">PR 217</h3>
+<p>So PR 217 destroyed everything. The end. (It will probably be fixed before I finish writing this though)</p>
+<h3 id="new-character-design">New Character Design</h3>
+<p>For the character design, we now have a new character design idea! instead of having characters, we have started designing clothes and monocles and other stuff. <img src="https://matrix-client.matrix.org/_matrix/media/r0/download/matrix.org/KAcwCUusOVqAdCagKMwLnguY" alt="picture"> We are hoping to get an alpha out soon, and one of the features will be the characters and items.</p>
+<h3 id="other-stuff">Other Stuff</h3>
+<p>So in other news, we will be posting the devlogs on the website, so you can stay tuned there also!</p>
+<p>(cukmekerb&rsquo;s note: you are on the website)</p>
+]]></content>
+		</item>
 		
 		<item>
 			<title>Devlog 5</title>
@@ -156,93 +175,6 @@ It has been two weeks since the project first started, when NiceMicro first post
 <p><a href="https://itch.io/games/in-development">In development</a></p>
 <p>Authors</p>
 <p><a href="https://opensus.itch.io">opensus</a>, <a href="https://thesecondreal0.itch.io">TheSecondReal0</a>, <a href="https://nicemicro.itch.io">Nice Micro</a>, <a href="https://theslaughterbehindtheman.itch.io">theslaughterbehindtheman</a>, <a href="https://moxvallix.itch.io">moxvallix</a></p>
-]]></content>
-		</item>
-		
-		<item>
-			<title>Typography</title>
-			<link>https://opensuspect.com/posts/typography/</link>
-			<pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
-			
-			<guid>https://opensuspect.com/posts/typography/</guid>
-			<description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
- An apple is a sweet, edible fruit produced by an apple tree (Malus pumila).</description>
-			<content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
-<blockquote>
-<p>An apple is a sweet, edible fruit produced by an apple tree (Malus pumila). Apple trees are cultivated worldwide, and are the most widely grown species in the genus Malus. The tree originated in Central Asia, where its wild ancestor, Malus sieversii, is still found today. Apples have been grown for thousands of years in Asia and Europe, and were brought to North America by European colonists. Apples have religious and mythological significance in many cultures, including Norse, Greek and European Christian traditions.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup></p>
-</blockquote>
-<hr>
-<p>Inline styles：</p>
-<p><strong>strong</strong>, <em>emphasis</em>, <em><strong>strong and emphasis</strong></em>,<code>code</code>, <!-- raw HTML omitted -->underline<!-- raw HTML omitted -->, <del>strikethrough</del>, 😂🤣, $\LaTeX$, X^2^, H~2~O, ==highlight==, <a href="https://example.com">Link</a>, and image:</p>
-<p><img src="https://picsum.photos/600/400/?random" alt="img"></p>
-<hr>
-<p>Headings:</p>
-<h1 id="heading-1">Heading 1</h1>
-<h2 id="heading-2">Heading 2</h2>
-<h3 id="heading-3">Heading 3</h3>
-<h4 id="heading-4">Heading 4</h4>
-<h5 id="heading-5">Heading 5</h5>
-<h6 id="heading-6">Heading 6</h6>
-<p>Table:</p>
-<table>
-<thead>
-<tr>
-<th style="text-align:left">Left-Aligned</th>
-<th style="text-align:center">Center Aligned</th>
-<th style="text-align:right">Right Aligned</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td style="text-align:left">col 3 is</td>
-<td style="text-align:center">some wordy text</td>
-<td style="text-align:right">$1600</td>
-</tr>
-<tr>
-<td style="text-align:left">col 2 is</td>
-<td style="text-align:center">centered</td>
-<td style="text-align:right">$12</td>
-</tr>
-<tr>
-<td style="text-align:left">zebra stripes</td>
-<td style="text-align:center">are neat</td>
-<td style="text-align:right">$1</td>
-</tr>
-</tbody>
-</table>
-<p>Lists:</p>
-<ul>
-<li>Unordered list item 1.</li>
-<li>Unordered list item 2.</li>
-</ul>
-<ol>
-<li>ordered list item 1.</li>
-<li>ordered list item 2.
-<ul>
-<li>sub-unordered list item 1.</li>
-<li>sub-unordered list item 2.
-<ul>
-<li><input checked="" disabled="" type="checkbox"> something is DONE.</li>
-<li><input disabled="" type="checkbox"> something is NOT DONE.</li>
-</ul>
-</li>
-</ul>
-</li>
-</ol>
-<p>Syntax Highlighting:</p>
-<div class="highlight"><pre class="chroma"><code class="language-javascript" data-lang="javascript"><span class="kd">var</span> <span class="nx">num1</span><span class="p">,</span> <span class="nx">num2</span><span class="p">,</span> <span class="nx">sum</span>
-<span class="nx">num1</span> <span class="o">=</span> <span class="nx">prompt</span><span class="p">(</span><span class="s2">&#34;Enter first number&#34;</span><span class="p">)</span>
-<span class="nx">num2</span> <span class="o">=</span> <span class="nx">prompt</span><span class="p">(</span><span class="s2">&#34;Enter second number&#34;</span><span class="p">)</span>
-<span class="nx">sum</span> <span class="o">=</span> <span class="nb">parseInt</span><span class="p">(</span><span class="nx">num1</span><span class="p">)</span> <span class="o">+</span> <span class="nb">parseInt</span><span class="p">(</span><span class="nx">num2</span><span class="p">)</span> <span class="c1">// &#34;+&#34; means &#34;add&#34;
-</span><span class="c1"></span><span class="nx">alert</span><span class="p">(</span><span class="s2">&#34;Sum = &#34;</span> <span class="o">+</span> <span class="nx">sum</span><span class="p">)</span>  <span class="c1">// &#34;+&#34; means combine into a string
-</span></code></pre></div><section class="footnotes" role="doc-endnotes">
-<hr>
-<ol>
-<li id="fn:1" role="doc-endnote">
-<p>From <a href="https://en.wikipedia.org/wiki/Apple">https://en.wikipedia.org/wiki/Apple</a> <a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
-</li>
-</ol>
-</section>
 ]]></content>
 		</item>
 		

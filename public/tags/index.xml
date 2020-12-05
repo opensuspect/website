@@ -6,25 +6,6 @@
     <description>Recent content in Tags on OpenSuspect</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 29 Sep 2018 11:36:33 +0800</lastBuildDate><atom:link href="https://opensuspect.com/tags/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Demo</title>
-      <link>https://opensuspect.com/tags/demo/</link>
-      <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
-      
-      <guid>https://opensuspect.com/tags/demo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Typography</title>
-      <link>https://opensuspect.com/tags/typography/</link>
-      <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
-      
-      <guid>https://opensuspect.com/tags/typography/</guid>
-      <description></description>
-    </item>
-    
+    <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright><atom:link href="https://opensuspect.com/tags/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
