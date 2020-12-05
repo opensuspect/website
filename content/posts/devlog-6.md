@@ -1,6 +1,6 @@
 ---
 title: "Devlog 6"
-date: 2020-12-1T08:01:11-05:00
+date: 2020-12-01T08:01:11-05:00
 draft: false
 comments: true
 images:
