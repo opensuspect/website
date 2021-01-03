@@ -1,4 +1,34 @@
 ---
 label: Post
 hide_body: true
-fields: []
+fields:
+- name: title
+  type: text
+  config:
+    required: false
+  label: title
+- name: date
+  type: datetime
+  label: date
+  description: ''
+  config:
+    required: false
+    date_format: 
+    time_format: 
+    display_utc: false
+- name: draft
+  type: text
+  config:
+    required: false
+  label: draft
+- name: comments
+  type: text
+  config:
+    required: false
+  label: comments
+- name: images
+  type: text
+  config:
+    required: false
+  label: images
+  description: DONT PUT ANYTHING HERE
