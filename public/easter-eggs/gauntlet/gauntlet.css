@@ -1,0 +1,48 @@
+@media only screen and (min-width: 950px){
+:root {
+    --input-width: 30%;
+}
+}
+@media only screen and (max-width: 949px){
+    :root {
+        --input-width: 80%;
+    }
+}
+body{
+    background: black;
+}
+h1{
+    text-align: center;
+    font-family: sans-serif;
+    color:white;
+    font-size: 5em;
+}
+p{
+    text-align: center;
+    font-family: sans-serif;
+    color:white;
+}
+
+input {
+    background: transparent;
+    border-top: none;
+    border-left: none;
+    outline: none;
+    border-right: none;
+    border-bottom: 1px solid rgb(185, 185, 185);
+    color: white;
+    font-size: 2em;
+    margin-left: auto;
+    margin-right: auto;
+    transition: 0.3s;
+    width: var(--input-width);
+}
+
+input:focus {
+    border-bottom: 3px solid white;
+}
+
+.spnn {
+    display: inline-block;
+    width: calc(50% - calc(var(--input-width) / 2));
+}

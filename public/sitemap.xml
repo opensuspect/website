@@ -3,103 +3,75 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>https://elastic-ardinghelli-6039f8.netlify.app/tags/demo/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+    <loc>https://opensuspect.com/</loc>
+    <lastmod>2021-01-03T16:11:37-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://elastic-ardinghelli-6039f8.netlify.app/tags/image/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+    <loc>https://opensuspect.com/posts/</loc>
+    <lastmod>2021-01-03T16:11:37-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://elastic-ardinghelli-6039f8.netlify.app/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+    <loc>https://opensuspect.com/posts/test/</loc>
+    <lastmod>2021-01-03T16:11:37-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://elastic-ardinghelli-6039f8.netlify.app/posts/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+    <loc>https://opensuspect.com/posts/progress-on-opensuspect/</loc>
+    <lastmod>2021-01-02T22:06:32-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://elastic-ardinghelli-6039f8.netlify.app/tags/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+    <loc>https://opensuspect.com/posts/devlog-6/</loc>
+    <lastmod>2020-12-01T08:01:11-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://elastic-ardinghelli-6039f8.netlify.app/posts/the-figure-shortcode/</loc>
-    <lastmod>2018-12-24T12:29:41+08:00</lastmod>
+    <loc>https://opensuspect.com/posts/devlog-5/</loc>
+    <lastmod>2020-11-24T08:01:11-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://elastic-ardinghelli-6039f8.netlify.app/posts/post-with-featured-image/</loc>
-    <lastmod>2018-10-01T16:15:09+08:00</lastmod>
+    <loc>https://opensuspect.com/posts/devlog-4/</loc>
+    <lastmod>2020-11-10T13:41:03-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://elastic-ardinghelli-6039f8.netlify.app/tags/typography/</loc>
-    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+    <loc>https://opensuspect.com/posts/devlog-3/</loc>
+    <lastmod>2020-11-01T13:41:00-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://elastic-ardinghelli-6039f8.netlify.app/posts/typography/</loc>
-    <lastmod>2018-09-29T11:36:33+08:00</lastmod>
+    <loc>https://opensuspect.com/posts/devlog-2/</loc>
+    <lastmod>2020-10-24T13:40:57-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://elastic-ardinghelli-6039f8.netlify.app/posts/creating-a-new-theme/</loc>
-    <lastmod>2014-09-28T00:00:00+00:00</lastmod>
+    <loc>https://opensuspect.com/posts/devlog-1/</loc>
+    <lastmod>2020-10-22T13:38:15-05:00</lastmod>
   </url>
   
   <url>
-    <loc>https://elastic-ardinghelli-6039f8.netlify.app/about-hugo/</loc>
+    <loc>https://opensuspect.com/about-hugo/</loc>
     <lastmod>2014-04-09T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://elastic-ardinghelli-6039f8.netlify.app/posts/goisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://opensuspect.com/donotlook/please/stop/linux/is/awesome/eastereggs/</loc>
   </url>
   
   <url>
-    <loc>https://elastic-ardinghelli-6039f8.netlify.app/tags/development/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://opensuspect.com/download/</loc>
+    <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://elastic-ardinghelli-6039f8.netlify.app/posts/hugoisforlovers/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
+    <loc>https://opensuspect.com/donotlook/</loc>
   </url>
   
   <url>
-    <loc>https://elastic-ardinghelli-6039f8.netlify.app/tags/go/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://elastic-ardinghelli-6039f8.netlify.app/tags/golang/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://elastic-ardinghelli-6039f8.netlify.app/tags/hugo/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://elastic-ardinghelli-6039f8.netlify.app/tags/templates/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://elastic-ardinghelli-6039f8.netlify.app/tags/themes/</loc>
-    <lastmod>2014-04-02T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://elastic-ardinghelli-6039f8.netlify.app/posts/migrate-from-jekyll/</loc>
-    <lastmod>2014-03-10T00:00:00+00:00</lastmod>
+    <loc>https://opensuspect.com/tags/</loc>
   </url>
   
 </urlset>

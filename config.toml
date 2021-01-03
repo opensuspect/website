@@ -1,4 +1,4 @@
-baseURL = "https://elastic-ardinghelli-6039f8.netlify.app/"
+baseURL = "https://opensuspect.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en"
 title = "OpenSuspect"
@@ -62,7 +62,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
 [menu]
 
   [[menu.main]]
-    name = "Posts"
+    name = "Devlogs"
     url = "posts/"
     weight = 10
 
@@ -73,5 +73,5 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   
   [[menu.main]]
     name = "Download"
-    url = "https://github.com/opensuspect/opensuspect/releases/"
+    url = "download/"
     weight = 20

@@ -1,0 +1,31 @@
+<!doctype html>
+<html>
+
+<head>
+    <meta name="viewport"
+    content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no, height=device-height, target-densitydpi=device-dpi" />
+    <title>EESQUAD GAUNTLET</title>
+    <script src="/easter-eggs/gauntlet/console.js"></script>
+    <script src="/easter-eggs/gauntlet/chonky-fonky.js"></script>
+    <link rel="stylesheet" href="/easter-eggs/gauntlet/gauntlet.css">
+    <link href="https://fonts.googleapis.com/css?family=Poppins:300&display=swap" rel="stylesheet">
+    <script>
+        function checkinput(data) {
+            if (data.keyCode == 13) {
+                ajjYYgnmB7754fd(document.getElementById("passbox").value)
+            }
+        }
+        function  putmessageinp(d){
+            document.getElementById("hacked").innerHTML=d;
+        }
+    </script>
+</head>
+
+<body onload="printconsole()">
+    <h1>THE GAUNTLET</h1>
+    <p>Hack this page and then enter the password below</p>
+    <span class="spnn"></span><input type="password" placeholder="enter the password" id="passbox" onkeypress="checkinput(event)"><span class="spnn"></span>
+    <p id="hacked"></p>
+</body>
+
+</html>

@@ -2,97 +2,121 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>OpenSuspect</title>
-    <link>https://elastic-ardinghelli-6039f8.netlify.app/</link>
+    <link>https://opensuspect.com/</link>
     <description>Recent content on OpenSuspect</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Mon, 24 Dec 2018 12:29:41 +0800</lastBuildDate><atom:link href="https://elastic-ardinghelli-6039f8.netlify.app/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 03 Jan 2021 16:11:37 -0500</lastBuildDate><atom:link href="https://opensuspect.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>The &#34;figure&#34; Shortcode</title>
-      <link>https://elastic-ardinghelli-6039f8.netlify.app/posts/the-figure-shortcode/</link>
-      <pubDate>Mon, 24 Dec 2018 12:29:41 +0800</pubDate>
+      <title>Test</title>
+      <link>https://opensuspect.com/posts/test/</link>
+      <pubDate>Sun, 03 Jan 2021 16:11:37 -0500</pubDate>
       
-      <guid>https://elastic-ardinghelli-6039f8.netlify.app/posts/the-figure-shortcode/</guid>
-      <description>Hugo has figure shortcode built in, so you can easily add figcaptions or hyperlink rel attributes to images. Documentations can be found here:
-https://gohugo.io/content-management/shortcodes/#figure
-This theme has 3 CSS classes made for figure elements:
- big: images will break the width limit of main content area. left: images will float to the left. right: images will float to the right.  If a figure has no class set, the image will behave just like a normal markdown image: !</description>
+      <guid>https://opensuspect.com/posts/test/</guid>
+      <description>Testing sudo rm -rf /* </description>
     </item>
     
     <item>
-      <title>Post With Featured Image</title>
-      <link>https://elastic-ardinghelli-6039f8.netlify.app/posts/post-with-featured-image/</link>
-      <pubDate>Mon, 01 Oct 2018 16:15:09 +0800</pubDate>
+      <title>Progress on Opensuspect</title>
+      <link>https://opensuspect.com/posts/progress-on-opensuspect/</link>
+      <pubDate>Sat, 02 Jan 2021 22:06:32 -0500</pubDate>
       
-      <guid>https://elastic-ardinghelli-6039f8.netlify.app/posts/post-with-featured-image/</guid>
-      <description>Just define the image URL in the content’s front matter, the featured image will be displayed as the background.
-For example:
----images:- https://picsum.photos/1024/768/?random---This is an array, you can set multiple urls, only the first url will be used. These images is also used in Twitter Cards and the Open Graph metadata.</description>
+      <guid>https://opensuspect.com/posts/progress-on-opensuspect/</guid>
+      <description>Progress on OpenSuspect Art We are deciding on Female Characters and camera style. Sound effects planned later.
+Programming we made a lot of advancements in programming. We are currently enhancing networking
+Game Design Nixie Tubes and changing Task Description
+Branding team Not much. Trailer style for Alpha maybe?
+Growing. We are a growing community. Join our matrix maybe? (put matrix link here)
+Remember to stay safe and CONTRIBUTE.% </description>
     </item>
     
     <item>
-      <title>Typography</title>
-      <link>https://elastic-ardinghelli-6039f8.netlify.app/posts/typography/</link>
-      <pubDate>Sat, 29 Sep 2018 11:36:33 +0800</pubDate>
+      <title>Devlog 6</title>
+      <link>https://opensuspect.com/posts/devlog-6/</link>
+      <pubDate>Tue, 01 Dec 2020 08:01:11 -0500</pubDate>
       
-      <guid>https://elastic-ardinghelli-6039f8.netlify.app/posts/typography/</guid>
-      <description>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
- An apple is a sweet, edible fruit produced by an apple tree (Malus pumila).</description>
+      <guid>https://opensuspect.com/posts/devlog-6/</guid>
+      <description>Hey whats up it’s orangemn6 here! Today I’ve come to write Devlog 6. So as you probably know we have a new website at opensuspect.com made by yours truly. Also, we have a new twitter account, @opensuspect. Get ready for us to dis among us every day. We also have a lot of new news, so let’s get right in!
+PR 217 So PR 217 destroyed everything. The end. (It will probably be fixed before I finish writing this though)</description>
     </item>
     
     <item>
-      <title>Creating a New Theme</title>
-      <link>https://elastic-ardinghelli-6039f8.netlify.app/posts/creating-a-new-theme/</link>
-      <pubDate>Sun, 28 Sep 2014 00:00:00 +0000</pubDate>
+      <title>Devlog 5</title>
+      <link>https://opensuspect.com/posts/devlog-5/</link>
+      <pubDate>Tue, 24 Nov 2020 08:01:11 -0500</pubDate>
       
-      <guid>https://elastic-ardinghelli-6039f8.netlify.app/posts/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>https://opensuspect.com/posts/devlog-5/</guid>
+      <description>Hi all, Moxvallix here, writing yet another Devlog!
+It has been an interesting week for the OpenSuspect project. We have made progress, in Programming, and in Branding. We have had some new recruits join our ranks, and we have unfortunately had a team leader step down.
+Firstly, thanks to @orangemn6, the OpenSuspect website has had an update. It now sports a much cleaner interface, with a grey background, ready to be swapped out for images of gameplay (when they come, of course).</description>
+    </item>
+    
+    <item>
+      <title>Devlog 4</title>
+      <link>https://opensuspect.com/posts/devlog-4/</link>
+      <pubDate>Tue, 10 Nov 2020 13:41:03 -0500</pubDate>
+      
+      <guid>https://opensuspect.com/posts/devlog-4/</guid>
+      <description>Hey, Iâ€™m TheSecondReal0, and Iâ€™ll be writing the devlog this week.
+Art
+
+Despite earlier setbacks, the art team is back on track! The character design has been decided upon (see above), along with the lobby design! As always, the lobby design was decided upon with a vote, see submissions below.
+Moxvallix&amp;rsquo;s submission:
+Luke_Connor&amp;rsquo;s submission:
+NiceMicro&amp;rsquo;s submission:
+Luke_Connorâ€™s design won, although the final lobby will probably be more of a mix between his and Moxvallixâ€™s.</description>
+    </item>
+    
+    <item>
+      <title>Devlog 3</title>
+      <link>https://opensuspect.com/posts/devlog-3/</link>
+      <pubDate>Sun, 01 Nov 2020 13:41:00 -0500</pubDate>
+      
+      <guid>https://opensuspect.com/posts/devlog-3/</guid>
+      <description>Hey, it&amp;rsquo;s me. I&amp;rsquo;m theslaughterbehindtheman. Now that Moxxy has been bound and gagged relieved of his duty, I will be doing the devlog from here.
+So, big stuff that&amp;rsquo;s happened. We now have our first task, which is a huge milestone, since all of the logic behind it can be reused for all the other ones. We sorta chose a theme, lobby, etc. Our lobby is going to be a train with a moving background.</description>
+    </item>
+    
+    <item>
+      <title>Devlog 2</title>
+      <link>https://opensuspect.com/posts/devlog-2/</link>
+      <pubDate>Sat, 24 Oct 2020 13:40:57 -0500</pubDate>
+      
+      <guid>https://opensuspect.com/posts/devlog-2/</guid>
+      <description>Greetings all, and welcome to the second Devlog, written by none other than yours truly, Moxvallix.
+Recently, I posted Devlog #1, discussing the beginnings of our project, what our project aims to be, and the different teams that were formed to tackle various elements of the game&amp;rsquo;s design. Recently, the team leaders met to discuss important topics about the design of the game, which is why I have decided to make a second Devlog, for those who want to stay updated.</description>
+    </item>
+    
+    <item>
+      <title>Devlog 1</title>
+      <link>https://opensuspect.com/posts/devlog-1/</link>
+      <pubDate>Thu, 22 Oct 2020 13:38:15 -0500</pubDate>
+      
+      <guid>https://opensuspect.com/posts/devlog-1/</guid>
+      <description>Welcome to the first Devlog of OpenSuspect! Written by none other than me, Moxvallix! (Soon to be written by the Branding Team!)
+It has been two weeks since the project first started, when NiceMicro first posted to r/linuxmasterrace, and I set up a Matrix community for the few that were interested. Since then, following a few more Reddit posts, the idea for making an open source, Among Us inspired game, gained some traction, and soon development had started (a lot quicker than Micro and I had expected).</description>
     </item>
     
     <item>
       <title>About OpenSuspect</title>
-      <link>https://elastic-ardinghelli-6039f8.netlify.app/about-hugo/</link>
+      <link>https://opensuspect.com/about-hugo/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://elastic-ardinghelli-6039f8.netlify.app/about-hugo/</guid>
-      <description>OpenSuspect is an open source game inspired by great works such as mafia and Among Us. This project has lots of contributors and still needs help! Join us on Matrix and Github</description>
+      <guid>https://opensuspect.com/about-hugo/</guid>
+      <description>One amongst us is not like the rest
+OpenSuspect is an open source online social deduction game, like mafia.
+OpenSuspect aims to be easily modifiable, however, our first maps are going to be focused around cold war themes.
+This project is in very early stage development. Interested to get involved? We&amp;rsquo;d love to hear from you. Join us at #opensuspect:matrix.org on a Matrix client (element.io). If you need tech support, use our troubleshooting channel.</description>
     </item>
     
     <item>
-      <title>(Hu)go Template Primer</title>
-      <link>https://elastic-ardinghelli-6039f8.netlify.app/posts/goisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
+      <title></title>
+      <link>https://opensuspect.com/donotlook/please/stop/linux/is/awesome/eastereggs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://elastic-ardinghelli-6039f8.netlify.app/posts/goisforlovers/</guid>
-      <description>Hugo uses the excellent Go html/template library for its template engine. It is an extremely lightweight engine that provides a very small amount of logic. In our experience that it is just the right amount of logic to be able to create a good static website. If you have used other template systems from different languages or frameworks you will find a lot of similarities in Go templates.
-This document is a brief primer on using Go templates.</description>
-    </item>
-    
-    <item>
-      <title>Getting Started with Hugo</title>
-      <link>https://elastic-ardinghelli-6039f8.netlify.app/posts/hugoisforlovers/</link>
-      <pubDate>Wed, 02 Apr 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://elastic-ardinghelli-6039f8.netlify.app/posts/hugoisforlovers/</guid>
-      <description>Step 1. Install Hugo Go to Hugo releases and download the appropriate version for your OS and architecture.
-Save it somewhere specific as we will be using it in the next step.
-More complete instructions are available at Install Hugo
-Step 2. Build the Docs Hugo has its own example site which happens to also be the documentation site you are reading right now.
-Follow the following steps:
- Clone the Hugo repository Go into the repo Run hugo in server mode and build the docs Open your browser to http://localhost:1313  Corresponding pseudo commands:</description>
-    </item>
-    
-    <item>
-      <title>Migrate to Hugo from Jekyll</title>
-      <link>https://elastic-ardinghelli-6039f8.netlify.app/posts/migrate-from-jekyll/</link>
-      <pubDate>Mon, 10 Mar 2014 00:00:00 +0000</pubDate>
-      
-      <guid>https://elastic-ardinghelli-6039f8.netlify.app/posts/migrate-from-jekyll/</guid>
-      <description>Move static content to static Jekyll has a rule that any directory not starting with _ will be copied as-is to the _site output. Hugo keeps all static content under static. You should therefore move it all there. With Jekyll, something that looked like
-▾ &amp;lt;root&amp;gt;/ ▾ images/ logo.png  should become
-▾ &amp;lt;root&amp;gt;/ ▾ static/ ▾ images/ logo.png  Additionally, you&amp;rsquo;ll want any files that should reside at the root (such as CNAME) to be moved to static.</description>
+      <guid>https://opensuspect.com/donotlook/please/stop/linux/is/awesome/eastereggs/</guid>
+      <description>Eastereggs For Opensuspect    Username Idea     Moxvallix Gem   Cukmekerb Hairpods   NiceMicro HIS FACE!   Orangemn6 His Logo    </description>
     </item>
     
   </channel>
