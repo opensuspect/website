@@ -1,7 +1,7 @@
 ---
 title: "Progress on Opensuspect"
 date: 2021-01-02T22:06:32-05:00
-draft: true
+draft: false
 comments: false
 images:
 ---

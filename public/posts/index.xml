@@ -6,8 +6,35 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Tue, 01 Dec 2020 08:01:11 -0500</lastBuildDate>
+		<lastBuildDate>Sat, 02 Jan 2021 22:06:32 -0500</lastBuildDate>
 		<atom:link href="https://opensuspect.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Progress on Opensuspect</title>
+			<link>https://opensuspect.com/posts/progress-on-opensuspect/</link>
+			<pubDate>Sat, 02 Jan 2021 22:06:32 -0500</pubDate>
+			
+			<guid>https://opensuspect.com/posts/progress-on-opensuspect/</guid>
+			<description>Progress on OpenSuspect Art We are deciding on Female Characters and camera style. Sound effects planned later.
+Programming we made a lot of advancements in programming. We are currently enhancing networking
+Game Design Nixie Tubes and changing Task Description
+Branding team Not much. Trailer style for Alpha maybe?
+Growing. We are a growing community. Join our matrix maybe? (put matrix link here)
+Remember to stay safe and CONTRIBUTE.% </description>
+			<content type="html"><![CDATA[<h1 id="progress-on-opensuspect">Progress on OpenSuspect</h1>
+<h2 id="art">Art</h2>
+<p>We are deciding on Female Characters and camera style. Sound effects planned later.</p>
+<h2 id="programming">Programming</h2>
+<p>we made a lot of advancements in programming. We are currently enhancing networking</p>
+<h2 id="game-design">Game Design</h2>
+<p>Nixie Tubes and changing Task Description</p>
+<h2 id="branding-team">Branding team</h2>
+<p>Not much. Trailer style for Alpha maybe?</p>
+<h2 id="growing">Growing.</h2>
+<p>We are a growing community. Join our matrix maybe? (put matrix link here)</p>
+<h3 id="remember-to-stay-safe-and-contribute">Remember to stay safe and CONTRIBUTE.%</h3>
+]]></content>
+		</item>
 		
 		<item>
 			<title>Devlog 6</title>
