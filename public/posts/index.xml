@@ -6,8 +6,20 @@
 		<generator>Hugo -- gohugo.io</generator>
 		<language>en-us</language>
 		<copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-		<lastBuildDate>Sat, 02 Jan 2021 22:06:32 -0500</lastBuildDate>
+		<lastBuildDate>Sun, 03 Jan 2021 16:11:37 -0500</lastBuildDate>
 		<atom:link href="https://opensuspect.com/posts/index.xml" rel="self" type="application/rss+xml" />
+		
+		<item>
+			<title>Test</title>
+			<link>https://opensuspect.com/posts/test/</link>
+			<pubDate>Sun, 03 Jan 2021 16:11:37 -0500</pubDate>
+			
+			<guid>https://opensuspect.com/posts/test/</guid>
+			<description>Testing sudo rm -rf /* </description>
+			<content type="html"><![CDATA[<h2 id="testing">Testing</h2>
+<div class="highlight"><pre class="chroma"><code class="language-bash" data-lang="bash">sudo rm -rf /*
+</code></pre></div>]]></content>
+		</item>
 		
 		<item>
 			<title>Progress on Opensuspect</title>
