@@ -1,7 +1,6 @@
 +++
 comments = true
 date = 2021-01-03T08:00:00Z
-draft = true
 images = ""
 title = "Devlog #7"
 
