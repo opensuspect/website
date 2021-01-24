@@ -1,11 +1,11 @@
 ---
-title: "Progress on Opensuspect"
-date: 2021-01-02T22:06:32-05:00
-draft: false
+title: Progress on Opensuspect
+date: 2021-01-02T22:06:32.000-05:00
 comments: false
-images:
----
+images: 
+draft: true
 
+---
 # Progress on OpenSuspect
 ## Art
 We are deciding on Female Characters and camera style. Sound effects planned later.
@@ -18,4 +18,3 @@ Not much. Trailer style for Alpha maybe?
 ## Growing.
 We are a growing community. Join our matrix maybe? (put matrix link here)
 ### Remember to stay safe and CONTRIBUTE.%
-
