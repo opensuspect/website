@@ -7,19 +7,25 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sat, 02 Jan 2021 22:06:32 -0500</lastBuildDate><atom:link href="https://opensuspect.com/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Jan 2021 15:00:00 +0000</lastBuildDate><atom:link href="https://opensuspect.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Progress on Opensuspect</title>
-      <link>https://opensuspect.com/posts/progress-on-opensuspect/</link>
-      <pubDate>Sat, 02 Jan 2021 22:06:32 -0500</pubDate>
+      <title>Devlog 8</title>
+      <link>https://opensuspect.com/posts/devlog-8/</link>
+      <pubDate>Sat, 16 Jan 2021 15:00:00 +0000</pubDate>
       
-      <guid>https://opensuspect.com/posts/progress-on-opensuspect/</guid>
-      <description>Progress on OpenSuspect Art We are deciding on Female Characters and camera style. Sound effects planned later.
-Programming we made a lot of advancements in programming. We are currently enhancing networking
-Game Design Nixie Tubes and changing Task Description
-Branding team Not much. Trailer style for Alpha maybe?
-Growing. We are a growing community. Join our matrix maybe? (put matrix link here)
-Remember to stay safe and CONTRIBUTE.% </description>
+      <guid>https://opensuspect.com/posts/devlog-8/</guid>
+      <description>Big upgrades are being constantly delivered to the OpenSuspect project!
+This week, it&amp;rsquo;s me, Nice Micro, the initial mastermind behind starting the game, who&amp;rsquo;s delivering you the news on the development progress. It has been a busy two weeks, and there was no rest for the coders, and big chunks of new code have been pulled into the main repository.
+New updates Task information display Thanks to the great work of Damjan94, now the tasks assigned to the player appear in a dedicated task view HUD element.</description>
+    </item>
+    
+    <item>
+      <title>Devlog #7</title>
+      <link>https://opensuspect.com/posts/devlog-7/</link>
+      <pubDate>Sun, 03 Jan 2021 08:00:00 +0000</pubDate>
+      
+      <guid>https://opensuspect.com/posts/devlog-7/</guid>
+      <description>Customization 101 Hey everyone, it&amp;rsquo;s Cukmekerb, here to give you another devlog. It&amp;rsquo;s been a while since we&amp;rsquo;ve published anything here, but we have made quite a bit of progress in the last month. For one thing, character customization is now in the game thanks to a few recent pull requests, and an even better version of the customization system is being worked on by Nice Micro. As well as this, the game now has a lobby, which looks very nice and was made by jngo102.</description>
     </item>
     
     <item>
@@ -108,18 +114,6 @@ This project is in very early stage development. Interested to get involved? We&
       
       <guid>https://opensuspect.com/donotlook/please/stop/linux/is/awesome/eastereggs/</guid>
       <description>Eastereggs For Opensuspect    Username Idea     Moxvallix Gem   Cukmekerb Hairpods   NiceMicro HIS FACE!   Orangemn6 His Logo    </description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://opensuspect.com/download/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://opensuspect.com/download/</guid>
-      <description>Download This is where you will find the downloads for OpenSuspect.
-Download (Linux) Download (Windows) Install Instructions: The game is still in beta, so there are no compiled versions. To install the game, do the following
- Download the Godot game engine  Get the game engine executable, and then run it
-Get git-lfs  Opensuspect uses git-lfs for file handling, so you need to install that for your OS.</description>
     </item>
     
   </channel>

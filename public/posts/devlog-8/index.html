@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en-us">
+
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<meta http-equiv="X-UA-Compatible" content="ie=edge">
+	<meta name="theme-color" content="#282525">
+	<meta name="msapplication-TileColor" content="#282525">
+<meta itemprop="name" content="Devlog 8">
+<meta itemprop="description" content="Big upgrades are being constantly delivered to the OpenSuspect project!
+This week, it&rsquo;s me, Nice Micro, the initial mastermind behind starting the game, who&rsquo;s delivering you the news on the development progress. It has been a busy two weeks, and there was no rest for the coders, and big chunks of new code have been pulled into the main repository.
+New updates Task information display Thanks to the great work of Damjan94, now the tasks assigned to the player appear in a dedicated task view HUD element.">
+<meta itemprop="datePublished" content="2021-01-16T15:00:00+00:00" />
+<meta itemprop="dateModified" content="2021-01-16T15:00:00+00:00" />
+<meta itemprop="wordCount" content="457">
+
+
+
+<meta itemprop="keywords" content="" />
+<meta property="og:title" content="Devlog 8" />
+<meta property="og:description" content="Big upgrades are being constantly delivered to the OpenSuspect project!
+This week, it&rsquo;s me, Nice Micro, the initial mastermind behind starting the game, who&rsquo;s delivering you the news on the development progress. It has been a busy two weeks, and there was no rest for the coders, and big chunks of new code have been pulled into the main repository.
+New updates Task information display Thanks to the great work of Damjan94, now the tasks assigned to the player appear in a dedicated task view HUD element." />
+<meta property="og:type" content="article" />
+<meta property="og:url" content="https://opensuspect.com/posts/devlog-8/" />
+<meta property="article:published_time" content="2021-01-16T15:00:00+00:00" />
+<meta property="article:modified_time" content="2021-01-16T15:00:00+00:00" />
+<meta name="twitter:card" content="summary"/>
+<meta name="twitter:title" content="Devlog 8"/>
+<meta name="twitter:description" content="Big upgrades are being constantly delivered to the OpenSuspect project!
+This week, it&rsquo;s me, Nice Micro, the initial mastermind behind starting the game, who&rsquo;s delivering you the news on the development progress. It has been a busy two weeks, and there was no rest for the coders, and big chunks of new code have been pulled into the main repository.
+New updates Task information display Thanks to the great work of Damjan94, now the tasks assigned to the player appear in a dedicated task view HUD element."/>
+
+	<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+	<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+	<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+	<link rel="manifest" href="/site.webmanifest">
+	<link rel="mask-icon" href="/safari-pinned-tab.svg" color="">
+	<link rel="shortcut icon" href="/favicon.ico">
+
+	<title>Devlog 8</title>
+	<link rel="stylesheet" href="https://opensuspect.com/css/style.min.eac77496566fd7d5768fd650ddb0b2b181ca6a2d7c5fdd6fe6b8ba4bf47e566f.css" integrity="sha256-6sd0llZv19V2j9ZQ3bCysYHKai18X91v5ri6S/R+Vm8=" crossorigin="anonymous">
+	
+</head>
+
+<body id="page">
+	
+	<header id="site-header" class="animated slideInUp">
+		<div class="hdr-wrapper section-inner">
+			<div class="hdr-left">
+				<div class="site-branding">
+					<a href="https://opensuspect.com/">OpenSuspect</a>
+				</div>
+				<nav class="site-nav hide-in-mobile">
+					
+				<a href="https://opensuspect.com/posts/">Devlogs</a>
+				<a href="https://opensuspect.com/about/">About</a>
+				<a href="https://opensuspect.com/download/">Download</a>
+
+				</nav>
+			</div>
+			<div class="hdr-right hdr-icons">
+				<span class="hdr-social hide-in-mobile"><a href="https://github.com/opensuspect/opensuspect" target="_blank" rel="noopener me" title="Github"><svg xmlns="http://www.w3.org/2000/svg" class="feather" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M9 19c-5 1.5-5-2.5-7-3m14 6v-3.87a3.37 3.37 0 0 0-.94-2.61c3.14-.35 6.44-1.54 6.44-7A5.44 5.44 0 0 0 20 4.77 5.07 5.07 0 0 0 19.91 1S18.73.65 16 2.48a13.38 13.38 0 0 0-7 0C6.27.65 5.09 1 5.09 1A5.07 5.07 0 0 0 5 4.77a5.44 5.44 0 0 0-1.5 3.78c0 5.42 3.3 6.61 6.44 7A3.37 3.37 0 0 0 9 18.13V22"></path></svg></a></span><button id="menu-btn" class="hdr-btn" title="Menu"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-menu"><line x1="3" y1="12" x2="21" y2="12"></line><line x1="3" y1="6" x2="21" y2="6"></line><line x1="3" y1="18" x2="21" y2="18"></line></svg></button>
+			</div>
+		</div>
+	</header>
+	<div id="mobile-menu" class="animated fast">
+		<ul>
+			<li><a href="https://opensuspect.com/posts/">Devlogs</a></li>
+			<li><a href="https://opensuspect.com/about/">About</a></li>
+			<li><a href="https://opensuspect.com/download/">Download</a></li>
+		</ul>
+	</div>
+
+
+	<main class="site-main section-inner animated fadeIn faster">
+		<article class="thin">
+			<header class="post-header">
+				<div class="post-meta"><span>Jan 16, 2021</span></div>
+				<h1>Devlog 8</h1>
+			</header>
+			<div class="content">
+				<p>Big upgrades are being constantly delivered to the OpenSuspect project!</p>
+<p>This week, it&rsquo;s me, Nice Micro, the initial mastermind behind starting the game, who&rsquo;s delivering you the news on the development progress. It has been a busy two weeks, and there was no rest for the coders, and big chunks of new code have been pulled into the main repository.</p>
+<h1 id="new-updates">New updates<a href="#new-updates" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h1>
+<h2 id="task-information-display">Task information display<a href="#task-information-display" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+<p>Thanks to the great work of Damjan94, now the tasks assigned to the player appear in a dedicated task view HUD element. This might seem like a small addition, but it came together with a big bucket of improvement for the task system, which finally allows for the assignment of global tasks - tasks that have to be performed by anyone, but doesn&rsquo;t matter who, and their state is synced to all the players. Alongside this, the engine allows personally distributed tasks, too, which don&rsquo;t synchronize, so anyone who gets the task, has to complete it.</p>
+<p><img src="/uploads/screenshot-from-2021-01-16-14-08-14.png" alt="Task system update" title="Task system update"></p>
+<p>The task display shows the personal tasks under the player&rsquo;s name, and they turn green on completion.</p>
+<h2 id="code-cleanup">Code cleanup<a href="#code-cleanup" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+<p>Not every important change is visible to the end user on a first glance, but if necessary, refactoring the code as soon as possible is important to keep future development efforts effective. In this early stage, when brand new functionality is added to the code base every day, spaghetti-like code cause merge conflicts, and merge conflicts cause sleepless nights and takes away resources from working on important stuff.</p>
+<p>These last two weeks, Cukmekerb did a great job rationalizing the code structure at some key parts, so new contributors will have an easier way to navigate the ever growing source code. Along side with the occasional code cleanup, we strive to have a rigorous code review system, so every new contribution is integrated in a way that will keep the game development less painful in the future.</p>
+<h2 id="character-customization">Character customization<a href="#character-customization" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h2>
+<p>The work on the  character customization has not ended, based on the great initial work of Jngo102, I continued polishing the code, while also fiddling with the graphical assets to make the customization experience seamless.</p>
+<p><img src="/uploads/randomchar.gif" alt=""></p>
+<p>A randomize button has also been introduced to create a random character with random skin- and hair colors for the lazy, or uninspired players. The color-selection became png image based, so the color maps can be easily switched out whenever it will be needed to be done.</p>
+<h1 id="what-does-the-future-hold">What does the future hold?<a href="#what-does-the-future-hold" class="anchor" aria-hidden="true"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M15 7h3a5 5 0 0 1 5 5 5 5 0 0 1-5 5h-3m-6 0H6a5 5 0 0 1-5-5 5 5 0 0 1 5-5h3"></path><line x1="8" y1="12" x2="16" y2="12"></line></svg></a></h1>
+<p>This weekend we are holding a general meeting for both contributors and interested outside parties, which might bring us in new directions.</p>
+<p>As of now, the game design team worked out three tasks in detail, which are going be implemented using the synced task system.</p>
+<p>As always, new contributors are warmly welcome!</p>
+
+			</div>
+			<hr class="post-end">
+			<footer class="post-info">
+				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-file-text"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"></path><polyline points="14 2 14 8 20 8"></polyline><line x1="16" y1="13" x2="8" y2="13"></line><line x1="16" y1="17" x2="8" y2="17"></line><polyline points="10 9 9 9 8 9"></polyline></svg>457 Words</p>
+				<p><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-calendar"><rect x="3" y="4" width="18" height="18" rx="2" ry="2"></rect><line x1="16" y1="2" x2="16" y2="6"></line><line x1="8" y1="2" x2="8" y2="6"></line><line x1="3" y1="10" x2="21" y2="10"></line></svg>2021-01-16 10:00 -0500</p>
+			</footer>
+		</article>
+		<div class="post-nav thin">
+			<a class="prev-post" href="https://opensuspect.com/posts/devlog-7/">
+				<span class="post-nav-label">Older&nbsp;<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-arrow-right"><line x1="5" y1="12" x2="19" y2="12"></line><polyline points="12 5 19 12 12 19"></polyline></svg></span><br><span>Devlog #7</span>
+			</a>
+		</div>
+		<div id="comments" class="thin">
+</div>
+	</main>
+
+	<footer id="site-footer" class="section-inner thin animated fadeIn faster">
+		<p>&copy; 2021 <a href="https://opensuspect.com/">OpenSuspect</a> &#183; <a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a></p>
+		<p>
+			Made with <a href="https://gohugo.io/" target="_blank" rel="noopener">Hugo</a> &#183; Theme <a href="https://github.com/Track3/hermit" target="_blank" rel="noopener">Hermit</a> &#183; <a href="https://opensuspect.com/posts/index.xml" target="_blank" title="rss"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-rss"><path d="M4 11a9 9 0 0 1 9 9"></path><path d="M4 4a16 16 0 0 1 16 16"></path><circle cx="5" cy="19" r="1"></circle></svg></a>
+		</p>
+	</footer>
+
+
+
+	<script src="https://opensuspect.com/js/bundle.min.4a9a0ac3d2217822c7865b4161e6c2a71de1d70492264337755427898dd718f6.js" integrity="sha256-SpoKw9IheCLHhltBYebCpx3h1wSSJkM3dVQniY3XGPY=" crossorigin="anonymous"></script>
+	
+
+</body>
+
+</html>
