@@ -7,16 +7,7 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>This work is licensed under a Creative Commons Attribution-NonCommercial 4.0 International License.</copyright>
-    <lastBuildDate>Sun, 03 Jan 2021 16:11:37 -0500</lastBuildDate><atom:link href="https://opensuspect.com/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Test</title>
-      <link>https://opensuspect.com/posts/test/</link>
-      <pubDate>Sun, 03 Jan 2021 16:11:37 -0500</pubDate>
-      
-      <guid>https://opensuspect.com/posts/test/</guid>
-      <description>Testing sudo rm -rf /* </description>
-    </item>
-    
+    <lastBuildDate>Sat, 02 Jan 2021 22:06:32 -0500</lastBuildDate><atom:link href="https://opensuspect.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Progress on Opensuspect</title>
       <link>https://opensuspect.com/posts/progress-on-opensuspect/</link>
@@ -100,10 +91,10 @@ It has been two weeks since the project first started, when NiceMicro first post
     
     <item>
       <title>About OpenSuspect</title>
-      <link>https://opensuspect.com/about-hugo/</link>
+      <link>https://opensuspect.com/about/</link>
       <pubDate>Wed, 09 Apr 2014 00:00:00 +0000</pubDate>
       
-      <guid>https://opensuspect.com/about-hugo/</guid>
+      <guid>https://opensuspect.com/about/</guid>
       <description>One amongst us is not like the rest
 OpenSuspect is an open source online social deduction game, like mafia.
 OpenSuspect aims to be easily modifiable, however, our first maps are going to be focused around cold war themes.
@@ -117,6 +108,18 @@ This project is in very early stage development. Interested to get involved? We&
       
       <guid>https://opensuspect.com/donotlook/please/stop/linux/is/awesome/eastereggs/</guid>
       <description>Eastereggs For Opensuspect    Username Idea     Moxvallix Gem   Cukmekerb Hairpods   NiceMicro HIS FACE!   Orangemn6 His Logo    </description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://opensuspect.com/download/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://opensuspect.com/download/</guid>
+      <description>Download This is where you will find the downloads for OpenSuspect.
+Download (Linux) Download (Windows) Install Instructions: The game is still in beta, so there are no compiled versions. To install the game, do the following
+ Download the Godot game engine  Get the game engine executable, and then run it
+Get git-lfs  Opensuspect uses git-lfs for file handling, so you need to install that for your OS.</description>
     </item>
     
   </channel>
