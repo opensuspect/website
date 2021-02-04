@@ -64,7 +64,7 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   [[menu.main]]
     name = "Devlogs"
     url = "posts/"
-    weight = 10
+    weight = 20
 
   [[menu.main]]
     name = "About"
@@ -74,4 +74,9 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
   [[menu.main]]
     name = "Download"
     url = "download/"
+    weight = 20
+
+  [[menu.main]]
+    name = "Forum"
+    url = "https://forum.opensuspect.com"
     weight = 20
