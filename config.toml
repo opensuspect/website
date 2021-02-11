@@ -80,3 +80,8 @@ enableEmoji = true  # Shorthand emojis in content files - https://gohugo.io/func
     name = "Forum"
     url = "https://forum.opensuspect.com"
     weight = 20
+
+  [[menu.main]]
+    name = "Donate"
+    url = "https://opencollective.com/opensuspect"
+    weight = 20
